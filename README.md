@@ -70,8 +70,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Andrix1515&show_icons=true&theme=radical">
-  <img alt="lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrix1515&layout=compact&theme=radical">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Andrix1515&show_icons=true&theme=nightowl">
+    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Andrix1515&theme=nightowl"> 
+  <img alt="lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrix1515&langs_count=10&show_icons=true&locale=en&theme=nightowl" alt="Andrix1515" height="750px">
 </div>
 
 <div align="center">
