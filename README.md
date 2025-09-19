@@ -60,10 +60,10 @@
   
   <h3>⚡ Sobre Mí</h3>
   <p>
-    - 🌱 Actualmente aprendiendo <b>React y Node.js</b><br>
-    - 💻 Apasionado por el desarrollo web y la inteligencia artificial<br>
-    - 🎮 Amante de los videojuegos fnasjlflka<br>
-    - 📫 Contáctame: <b>andtoms@gmail.com</b>
+    - 🌱 Currently learning <b>React y Node.js</b><br>
+    - 💻 Passionate about web development and artificial intelligence<br>
+    - 🎮 Video game lover fnasjlflka<br>
+    - 📫 Contáct me: <b>andtoms@gmail.com</b>
   </p>
 </div>
 
