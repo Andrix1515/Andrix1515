@@ -5,7 +5,7 @@
 
 <div align="center">
   <img alt="gato-tecleando" height="100px" width="100px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
-  <img alt="titulo" align="center" height="10%" width="25%" src="https://fontmeme.com/temporary/857d85726b6ae4db55df19b463d43ea5.png"></img><br>
+  <img alt="titulo" align="center" height="10%" width="25%" src=""></img><br>
 </div>
 
 <p align="center">
