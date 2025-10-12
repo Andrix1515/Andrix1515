@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Full+Stack+en+progreso;Amante+de+lo+nuevo+y+muchas+cosas+XD;Aprendiendo+Nuevas+Tecnologías;Apasionado+por+la+Programación;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Разработчик+Full+Stack+в+процессе+обучения;Любитель+нового+и+многого+другого+XD;Изучаю+новые+технологии;Увлечен+программированием;&center=true&width=500&height=50">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
